@@ -1,0 +1,42 @@
+微信开放平台：
+366036326@qq.com juping0605
+
+微信公众平台：
+3048648058@qq.com  juping0726  沐风书艺社
+3249389945@qq.com  #][poI369   果海酒栈
+
+
+果海酒栈找回账号用的qq账号：
+3249389945@qq.com juping0605
+
+阿里esc(华东2)：
+IP:106.15.192.168
+U/P:root/#][poI369
+web远程登录密码：314447
+
+
+局域网外网映射工具sunny-ngrok：
+U/P:366036326@qq.com/#][poI369
+./sunny clientid 90abe5290142e73f    => http://guohai.free.ngrok.cc
+
+
+
+AppID: wx540afd2b81270e0d
+AppSecret: 91143b50d53362c8f4b95d3f09d47e37
+
+
+获取access_token的url
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=APPID&secret=APPSECRET
+eg: https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx540afd2b81270e0d&secret=91143b50d53362c8f4b95d3f09d47e37
+
+
+
+	
+access_token	""
+expires_in	7200
+
+https://api.weixin.qq.com/cgi-bin/menu/get?access_token=JRH5PiV2U0lbKes0dhvYMBLnX_WkGjcgCIsPZ5iTIY_Xc3w11fwkYmIgnE_AsKJoIvligGGHhWOy1nbYXqbMiC2nTjs5aGcbGTFdjkhAtdYO9hhov-I5_NwQBp2mAE9KPSUfAHAILN
+
+https://api.weixin.qq.com/cgi-bin/get_current_selfmenu_info?access_token=JRH5PiV2U0lbKes0dhvYMBLnX_WkGjcgCIsPZ5iTIY_Xc3w11fwkYmIgnE_AsKJoIvligGGHhWOy1nbYXqbMiC2nTjs5aGcbGTFdjkhAtdYO9hhov-I5_NwQBp2mAE9KPSUfAHAILN
+
+
