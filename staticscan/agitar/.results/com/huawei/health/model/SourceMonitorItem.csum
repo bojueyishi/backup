@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Class n="com.huawei.health.model.SourceMonitorItem" generic="com.huawei.health.model.SourceMonitorItem" COA="010" time="1496886482250" tci="100.0" tp="0" mwtp="0" tm="6" tcov="40" owtp="0" to="6" comp="6" byteSum="2200609064">
+<TestClasses v=""/>
+<OutcomeLite>
+<Outcome n="CLASS" myCOA="010" tpp="0" expected="1" hash="1585156922">
+</Outcome>
+</OutcomeLite>
+<Outcome n="CLASS" COA="010" myCOA="010" count="115" hash="1585156922" tpp="0">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="-1" p="18" f="97">this.getMaxComplexity() != null</O>
+<O sc="4" p="115" f="0">0 &lt;= this.getMethodName().length() &lt;= 35</O>
+<O sc="-1" p="20" f="95">this.getFileName() != null</O>
+<O sc="-1" p="16" f="99">this.getMethodName() != null</O>
+<O sc="4" p="115" f="0">0 &lt;= this.getFileName().length() &lt;= 24</O>
+<O sc="4" p="115" f="0">0 &lt;= this.getMaxComplexity().length() &lt;= 27</O>
+</Observations>
+</Outcome>
+<Method n="com.huawei.health.model.SourceMonitorItem.getMaxComplexity()" fk="com/huawei/health/model/SourceMonitorItem.getMaxComplexity.()Ljava/lang/String;" generic="getMaxComplexity()" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<OutcomeLite>
+<Outcome n="METHOD" myCOA="010" expected="0" hash="-1245230082">
+<Outcome n="EXCEPTION" myCOA="000" expected="0" hash="-1588434414">
+</Outcome>
+<Outcome n="NORMAL" myCOA="010" expected="1" hash="-1666513632">
+</Outcome>
+</Outcome>
+</OutcomeLite>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.getFileName()" fk="com/huawei/health/model/SourceMonitorItem.getFileName.()Ljava/lang/String;" generic="getFileName()" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<OutcomeLite>
+<Outcome n="METHOD" myCOA="010" expected="0" hash="1555672599">
+<Outcome n="EXCEPTION" myCOA="000" expected="0" hash="-1821502725">
+</Outcome>
+<Outcome n="NORMAL" myCOA="010" expected="1" hash="-2056957038">
+</Outcome>
+</Outcome>
+</OutcomeLite>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.getMethodName()" fk="com/huawei/health/model/SourceMonitorItem.getMethodName.()Ljava/lang/String;" generic="getMethodName()" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<OutcomeLite>
+<Outcome n="METHOD" myCOA="010" expected="0" hash="-1409253690">
+<Outcome n="EXCEPTION" myCOA="000" expected="0" hash="-1708249783">
+</Outcome>
+<Outcome n="NORMAL" myCOA="010" expected="1" hash="-1151108690">
+</Outcome>
+</Outcome>
+</OutcomeLite>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.setMethodName(java.lang.String methodName)" fk="com/huawei/health/model/SourceMonitorItem.setMethodName.(Ljava/lang/String;)V" generic="setMethodName(String)" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<OutcomeLite>
+<Outcome n="METHOD" myCOA="010" expected="0" hash="-960176861">
+<Outcome n="EXCEPTION" myCOA="000" expected="0" hash="-1915861875">
+</Outcome>
+<Outcome n="NORMAL" myCOA="010" expected="1" hash="-2132041615">
+</Outcome>
+</Outcome>
+</OutcomeLite>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.setFileName(java.lang.String fileName)" fk="com/huawei/health/model/SourceMonitorItem.setFileName.(Ljava/lang/String;)V" generic="setFileName(String)" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<OutcomeLite>
+<Outcome n="METHOD" myCOA="010" expected="0" hash="1321363511">
+<Outcome n="EXCEPTION" myCOA="000" expected="0" hash="-1413101739">
+</Outcome>
+<Outcome n="NORMAL" myCOA="010" expected="1" hash="-1715845287">
+</Outcome>
+</Outcome>
+</OutcomeLite>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.setMaxComplexity(java.lang.String maxComplexity)" fk="com/huawei/health/model/SourceMonitorItem.setMaxComplexity.(Ljava/lang/String;)V" generic="setMaxComplexity(String)" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<OutcomeLite>
+<Outcome n="METHOD" myCOA="010" expected="0" hash="2130084739">
+<Outcome n="EXCEPTION" myCOA="000" expected="0" hash="-1281151496">
+</Outcome>
+<Outcome n="NORMAL" myCOA="010" expected="1" hash="-1634650984">
+</Outcome>
+</Outcome>
+</OutcomeLite>
+</Method>
+<Version n="AgitarOne Version 6.1.1.000008"/>
+</Class>
+

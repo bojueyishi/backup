@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Class n="com.huawei.health.model.SourceMonitorItem">
+<Method n="com.huawei.health.model.SourceMonitorItem.getMaxComplexity()" fk="com/huawei/health/model/SourceMonitorItem.getMaxComplexity.()Ljava/lang/String;" generic="getMaxComplexity()" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<Outcome n="METHOD" COA="010" myCOA="010" count="6" hash="-1245230082" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="6" f="0" auto="true">@RETURN == @PRE( this.maxComplexity )</O>
+</Observations>
+<Outcome n="EXCEPTION" COA="000" myCOA="000" count="0" hash="-1588434414" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+</Observations>
+</Outcome>
+<Outcome n="NORMAL" COA="010" myCOA="010" count="6" hash="-1666513632" expected="1">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="6" f="0" auto="true">@RETURN == @PRE( this.maxComplexity )</O>
+</Observations>
+</Outcome>
+</Outcome>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.getFileName()" fk="com/huawei/health/model/SourceMonitorItem.getFileName.()Ljava/lang/String;" generic="getFileName()" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<Outcome n="METHOD" COA="010" myCOA="010" count="6" hash="1555672599" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="6" f="0" auto="true">@RETURN == @PRE( this.fileName )</O>
+</Observations>
+<Outcome n="EXCEPTION" COA="000" myCOA="000" count="0" hash="-1821502725" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+</Observations>
+</Outcome>
+<Outcome n="NORMAL" COA="010" myCOA="010" count="6" hash="-2056957038" expected="1">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="6" f="0" auto="true">@RETURN == @PRE( this.fileName )</O>
+</Observations>
+</Outcome>
+</Outcome>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.getMethodName()" fk="com/huawei/health/model/SourceMonitorItem.getMethodName.()Ljava/lang/String;" generic="getMethodName()" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<Outcome n="METHOD" COA="010" myCOA="010" count="6" hash="-1409253690" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="6" f="0" auto="true">@RETURN == @PRE( this.methodName )</O>
+</Observations>
+<Outcome n="EXCEPTION" COA="000" myCOA="000" count="0" hash="-1708249783" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+</Observations>
+</Outcome>
+<Outcome n="NORMAL" COA="010" myCOA="010" count="6" hash="-1151108690" expected="1">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="6" f="0" auto="true">@RETURN == @PRE( this.methodName )</O>
+</Observations>
+</Outcome>
+</Outcome>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.setMethodName(java.lang.String methodName)" fk="com/huawei/health/model/SourceMonitorItem.setMethodName.(Ljava/lang/String;)V" generic="setMethodName(String)" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<Outcome n="METHOD" COA="010" myCOA="010" count="6" hash="-960176861" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="6" f="0" auto="true">this.getMethodName() == methodName</O>
+</Observations>
+<Outcome n="EXCEPTION" COA="000" myCOA="000" count="0" hash="-1915861875" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+</Observations>
+</Outcome>
+<Outcome n="NORMAL" COA="010" myCOA="010" count="6" hash="-2132041615" expected="1">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="6" f="0" auto="true">this.getMethodName() == methodName</O>
+</Observations>
+</Outcome>
+</Outcome>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.setFileName(java.lang.String fileName)" fk="com/huawei/health/model/SourceMonitorItem.setFileName.(Ljava/lang/String;)V" generic="setFileName(String)" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<Outcome n="METHOD" COA="010" myCOA="010" count="7" hash="1321363511" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="7" f="0" auto="true">this.getFileName() == fileName</O>
+</Observations>
+<Outcome n="EXCEPTION" COA="000" myCOA="000" count="0" hash="-1413101739" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+</Observations>
+</Outcome>
+<Outcome n="NORMAL" COA="010" myCOA="010" count="7" hash="-1715845287" expected="1">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="7" f="0" auto="true">this.getFileName() == fileName</O>
+</Observations>
+</Outcome>
+</Outcome>
+</Method>
+<Method n="com.huawei.health.model.SourceMonitorItem.setMaxComplexity(java.lang.String maxComplexity)" fk="com/huawei/health/model/SourceMonitorItem.setMaxComplexity.(Ljava/lang/String;)V" generic="setMaxComplexity(String)" comp="1" COA="010" tcov="40" tp="0" owtp="0" to="1">
+<Outcome n="METHOD" COA="010" myCOA="010" count="7" hash="2130084739" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="7" f="0" auto="true">this.getMaxComplexity() == maxComplexity</O>
+</Observations>
+<Outcome n="EXCEPTION" COA="000" myCOA="000" count="0" hash="-1281151496" expected="0">
+<Assertions>
+</Assertions>
+<Observations>
+</Observations>
+</Outcome>
+<Outcome n="NORMAL" COA="010" myCOA="010" count="7" hash="-1634650984" expected="1">
+<Assertions>
+</Assertions>
+<Observations>
+<O sc="11" p="7" f="0" auto="true">this.getMaxComplexity() == maxComplexity</O>
+</Observations>
+</Outcome>
+</Outcome>
+</Method>
+</Class>
+

@@ -1,0 +1,122 @@
+<ROOT>
+<Keys><key v="2.0" n="this" t="com.huawei.health.model.SourceMonitorItem" sc="1"/>
+<key v="4.0" n="this" t="com.huawei.health.model.SourceMonitorItem" sc="1"/>
+<key v="2.0.0" n="getFileName()" t="java.lang.String"/>
+<key v="2.0.0.0" n="length()" t="int"/>
+<key v="4.0.0" n="getFileName()" t="java.lang.String"/>
+<key v="4.0.0.0" n="length()" t="int"/>
+<key v="2.0.1" n="getMaxComplexity()" t="java.lang.String"/>
+<key v="2.0.1.0" n="length()" t="int"/>
+<key v="4.0.1" n="getMaxComplexity()" t="java.lang.String"/>
+<key v="4.0.1.0" n="length()" t="int"/>
+<key v="2.0.2" n="getMethodName()" t="java.lang.String"/>
+<key v="2.0.2.0" n="length()" t="int"/>
+<key v="4.0.2" n="getMethodName()" t="java.lang.String"/>
+<key v="4.0.2.0" n="length()" t="int"/>
+<key v="3.0" n="@RETURN" t="java.lang.String" sc="1"/>
+<key v="3.0.0" n="length()" t="int"/>
+</Keys>
+
+<W>
+<Assertions>
+</Assertions>
+<SS>
+<I key="2.0" v="com.huawei.health.model.SourceMonitorItem@32efd46a"/>
+<I key="2.0.0" v="null"/>
+<I key="2.0.1" v="null"/>
+<I key="2.0.2" v="null"/>
+<I key="4.0" v="com.huawei.health.model.SourceMonitorItem@32efd46a"/>
+<I key="4.0.0" v="null"/>
+<I key="4.0.1" v="null"/>
+<I key="4.0.2" v="null"/>
+<I key="3.0" v="null"/>
+</SS>
+</W>
+
+<W>
+<Assertions>
+</Assertions>
+<SS>
+<I key="2.0" v="com.huawei.health.model.SourceMonitorItem@4febd1b3"/>
+<I key="2.0.0" v="null"/>
+<I key="2.0.1" v="null"/>
+<I key="2.0.2" v="null"/>
+<I key="4.0" v="com.huawei.health.model.SourceMonitorItem@4febd1b3"/>
+<I key="4.0.0" v="null"/>
+<I key="4.0.1" v="null"/>
+<I key="4.0.2" v="null"/>
+<I key="3.0" v="null"/>
+</SS>
+</W>
+
+<W>
+<Assertions>
+</Assertions>
+<SS>
+<I key="2.0" v="com.huawei.health.model.SourceMonitorItem@32efd46a"/>
+<I key="2.0.0" v="&quot;薄试쾘ṱ⿈喟앓멑\uDF7E愸넺急ᒄ⎏頞䑠葸⵪䒲ﳢ땞㏙㌶ฑ&quot;"/>
+<I key="2.0.0.0" v="24"/>
+<I key="2.0.1" v="&quot;\n&quot;"/>
+<I key="2.0.1.0" v="1"/>
+<I key="2.0.2" v="null"/>
+<I key="4.0" v="com.huawei.health.model.SourceMonitorItem@32efd46a"/>
+<I key="4.0.0" v="&quot;薄试쾘ṱ⿈喟앓멑\uDF7E愸넺急ᒄ⎏頞䑠葸⵪䒲ﳢ땞㏙㌶ฑ&quot;"/>
+<I key="4.0.0.0" v="24"/>
+<I key="4.0.1" v="&quot;\n&quot;"/>
+<I key="4.0.1.0" v="1"/>
+<I key="4.0.2" v="null"/>
+<I key="3.0" v="&quot;薄试쾘ṱ⿈喟앓멑\uDF7E愸넺急ᒄ⎏頞䑠葸⵪䒲ﳢ땞㏙㌶ฑ&quot;"/>
+<I key="3.0.0" v="24"/>
+</SS>
+</W>
+
+<W>
+<Assertions>
+</Assertions>
+<SS>
+<I key="2.0" v="com.huawei.health.model.SourceMonitorItem@6ef51c78"/>
+<I key="2.0.0" v="null"/>
+<I key="2.0.1" v="null"/>
+<I key="2.0.2" v="null"/>
+<I key="4.0" v="com.huawei.health.model.SourceMonitorItem@6ef51c78"/>
+<I key="4.0.0" v="null"/>
+<I key="4.0.1" v="null"/>
+<I key="4.0.2" v="null"/>
+<I key="3.0" v="null"/>
+</SS>
+</W>
+
+<W>
+<Assertions>
+</Assertions>
+<SS>
+<I key="2.0" v="com.huawei.health.model.SourceMonitorItem@410cd8e0"/>
+<I key="2.0.0" v="null"/>
+<I key="2.0.1" v="&quot;4&quot;"/>
+<I key="2.0.1.0" v="1"/>
+<I key="2.0.2" v="null"/>
+<I key="4.0" v="com.huawei.health.model.SourceMonitorItem@410cd8e0"/>
+<I key="4.0.0" v="null"/>
+<I key="4.0.1" v="&quot;4&quot;"/>
+<I key="4.0.1.0" v="1"/>
+<I key="4.0.2" v="null"/>
+<I key="3.0" v="null"/>
+</SS>
+</W>
+
+<W>
+<Assertions>
+</Assertions>
+<SS>
+<I key="2.0" v="com.huawei.health.model.SourceMonitorItem@29c0830b"/>
+<I key="2.0.0" v="null"/>
+<I key="2.0.1" v="null"/>
+<I key="2.0.2" v="null"/>
+<I key="4.0" v="com.huawei.health.model.SourceMonitorItem@29c0830b"/>
+<I key="4.0.0" v="null"/>
+<I key="4.0.1" v="null"/>
+<I key="4.0.2" v="null"/>
+<I key="3.0" v="null"/>
+</SS>
+</W>
+
