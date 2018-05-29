@@ -1,0 +1,62 @@
+【技术】
+1、目标：全栈工程师
+2、宗旨：技术要一个一个清，要清就好好清，高效率的清
+3、内容：
+【1】mysql（详解：原理、性能）+框架（hibernate+mybatis）
+【2】html、css、js、jquery（该详解了）+前端框架（bootstrap、amazeUI、vue.js、angulajs）
+【3】java语言本身（多线程+注解+反射+）（性能）、jvm
+【4】框架struts2、spring、springMVC、jFinal
+【5】spring、spingMVC源码解析、tomcat源码分析(重要：能帮助理解整个web应用)
+【6】动态代理到底是什么？
+【7】对浏览器兼容性有深入的研究，精通各种浏览器问题；
+【8】前端工程化、模块化、组件化有一定了解，并有实战经验
+
+怎么样才算精通一个知识点？
+redis书籍
+kafka书籍
+高并发、高并发web
+设计模式、UML建模
+LBS应用产品
+数据结构（时间复杂度和空间复杂度怎么计算、排序方法）、jvm内存模型、类加载机制以及性能优化
+互联网支付业务是什么
+mysql优化
+springcloud、springboot
+elasticsearch
+jvm了解、调优
+分布式系统是什么及相关技术（分布式、高可用、消息队列、缓存）
+crons框架、消息总线
+
+eclipse工程配置文件详解
+eclipse导入各种工程的流程
+
+springMVC请求和返回的具体原理
+
+eclipse clean操作意义
+
+加密算法
+war解压缩
+
+1、在使用参数化查询的情况下，数据库服务器不会将参数的内容视为SQL指令的一部份来处理，
+而是在数据库完成SQL指令的编译后，才套用参数运行，因此就算参数中含有指令，也不会被数据库运行
+
+2、即使应答头中含有HttpOnly属性，当用户浏览有效域中的站点时，这个cookie仍会被自动发送。但是，却不能够在Internet Explorer 6 SP1中使用脚本来访问该cookie，即使起初建立该cookie的那个Web 站点也不例外。这意味着，即使存在跨站点脚本攻击缺陷，并且用户被骗点击了利用该漏洞的链接，Internet Explorer也不会将该cookie发送给任何第三方。这样的话，就保证了信息的安全。 
+注意，为了降低跨站点脚本攻击带来的损害，通常需要将HTTP-only Cookie和其他技术组合使用。如果单独使用的话，它无法全面抵御跨站点脚本攻击。
+
+3、实例
+在本例中，我们将使用 escape() 来编码字符串：
+<script type="text/javascript">
+document.write(escape("Visit W3School!") + "<br />")
+document.write(escape("?!=()#%&"))
+</script>
+输出：
+Visit%20W3School%21
+%3F%21%3D%28%29%23%25%26
+
+
+
+
+
+
+
+
+ 
