@@ -3,7 +3,7 @@
 2、宗旨：技术要一个一个清，要清就好好清，高效率的清
 3、内容：
 【1】mysql（详解：原理、性能）+框架（hibernate+mybatis）
-【2】html、css、js、jquery（该详解了）+前端框架（bootstrap、amazeUI、vue.js、angulajs）
+【2】html、css、js、jquery（该详解了）+ 前端框架（bootstrap、amazeUI、vue.js、angulajs、react.js）
 【3】java语言本身（多线程+注解+反射+）（性能）、jvm
 【4】框架struts2、spring、springMVC、jFinal
 【5】spring、spingMVC源码解析、tomcat源码分析(重要：能帮助理解整个web应用)
